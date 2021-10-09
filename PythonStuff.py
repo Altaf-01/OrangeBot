@@ -5,6 +5,7 @@ import telebot
 
 
 API_KEY = TOKEN
+
 bot = telebot.TeleBot(API_KEY)
 
 @bot.message_handler(commands=["Greet"])
