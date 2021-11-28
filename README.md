@@ -1,4 +1,6 @@
 # OrangeBot
+## Bot Link
+https://t.me/OrangeThe_bot
 ## DISCLAIMER :
   It's still in Development
 ## Prerequisites :
