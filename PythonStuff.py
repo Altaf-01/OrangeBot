@@ -79,6 +79,7 @@ def bored(message):
 def toss(message):
     sides=("Head","Tail")
     result = random.choice(sides)
+    bot.reply_to(message,result)
 #----------------------------------------------8 ball-------------------------------------------------------------------
 
 @bot.message_handler(commands = ["8ball"])
